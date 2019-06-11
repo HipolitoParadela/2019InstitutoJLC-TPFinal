@@ -7,7 +7,7 @@ La misma deberá cumplir con lo siguiente:
 
 - debe estar desarrollada en HTML, CSS y Javascript
 	- HTML estructural y HTML Semántico
-	- CSS externo, y donde sea oportuno usar css interno y/o de propedad (style="")
+	- CSS externo, y donde sea oportuno usar css interno y/o de etiqueta (style="")
 	- deberá tener una función javascript útil para uso del visitante o del cliente
 
 - debe ser resposive, por lo cual es necesario usar el maquetado de bootstrap, (containter, row, col).
