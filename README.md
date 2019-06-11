@@ -16,7 +16,7 @@ La misma deberá cumplir con lo siguiente:
 
 ____
 
-EL TRABAJO COLABORATIVO TRAERÁ SE AUTORECOMPENSARÁ
+EL TRABAJO COLABORATIVO TRAERÁ SU AUTORECOMPENSARÁ
 
 Es decir que no es una competencia de quién desarrolla la web más linda todo lo contrario,
 pueden ayudarse, compartir código o metodos de implementar estilos, funciones e ideas entre todos.
